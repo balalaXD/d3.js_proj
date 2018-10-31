@@ -1,0 +1,12 @@
+{
+  "name": "d3.js_proj",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Noooye <liferec@163.com>",
+  "license": "MIT",
+  "description": ""
+}
